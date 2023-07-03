@@ -302,7 +302,7 @@
 			<key>DiscardHibernateMap</key>
 			<false/>
 			<key>EnableSafeModeSlide</key>
-			<false/>
+			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
 			<key>ForceBooterSignature</key>
@@ -345,6 +345,11 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-cursormem</key>
 				<data>AACQAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
+			<dict>
+				<key>No-hda-gfx</key>
+				<data>AAAAAAAAAAA=</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
