@@ -40,11 +40,19 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-SHUTDOWN.aml</string>
+				<string>SSDT-SHUTDOWN-1.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-SHUTDOWN.aml</string>
+				<string>SSDT-SHUTDOWN-1.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-SHUTDOWN-2.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-SHUTDOWN-2.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
