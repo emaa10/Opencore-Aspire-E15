@@ -50,7 +50,7 @@
 				<key>Comment</key>
 				<string>SSDT-SHUTDOWN-2.aml</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-SHUTDOWN-2.aml</string>
 			</dict>
@@ -1322,7 +1322,7 @@
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
