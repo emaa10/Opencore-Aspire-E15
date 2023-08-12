@@ -2,7 +2,8 @@
 Opencore on an Intel i3-4005U, HD Graphics 4000
 
 Opencore config for my old laptop.
-Current OC version: 0.9.3
+Current OC version: 0.9.4
+Current macOS Version: 12.6.7
 
 ### Hardware
 - RAM: 4GB DDR3
